@@ -14,7 +14,7 @@ Construir, treinar e avaliar uma rede convolucional LeNet-5 para classificar dí
 - TensorFlow / Keras
 - NumPy
 - Matplotlib
-
+- Google Colab
 ---
 
 ## 📁 Estrutura do Projeto
@@ -84,5 +84,6 @@ O modelo apresentou ótimo desempenho após ajustes no otimizador e número de �
 📌 Autor
 
 Fábio A. Oliveira
+
 Projeto desenvolvido para praticar os conhecimentos adquiridos na pós-graduação em Ciência de Dados, juntamente com estudos e pesquisas pessoais sobre o tema.
 
